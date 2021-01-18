@@ -1,5 +1,6 @@
 # Restaurant Rating prediction
-## Предскажите рейтинг ресторана по версии TripAdvisor
+## Задача
+- Предскажите рейтинг ресторана по версии TripAdvisor
 ## Основные пункты
 - EDA
 
