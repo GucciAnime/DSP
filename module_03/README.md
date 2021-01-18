@@ -1,7 +1,8 @@
 # Предсказание рейтинга ресторана
+## Задача - Почистить данные, создать новые признаки
 
-Data - данные
+- Data - данные
 
-PredictV1.ipynb - Весь основной код
+- PredictV1.ipynb - Весь основной код
 
-submission.csv - Для Kaggle
+- submission.csv - Для Kaggle
